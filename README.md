@@ -14,3 +14,6 @@ I developed this project to solve a core business problem: Customer Churn;By ana
 2. At-Risk:** High spenders who haven't bought recently. Strategy: 20% win-back discount.
 3. Hibernating: Low engagement customers. *Strategy: Automated email re-engagement.
 4. New Customers:Just started buying. Strategy: Onboarding support.
+
+RFM Analysis + KMeans Clustering of 4,338 customers. Identifies £10.8M revenue risk from 52 VIPs. 87% churn model + retention strategy (26x ROI). Interactive dashboard included.
+
